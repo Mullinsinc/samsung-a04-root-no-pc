@@ -1,4 +1,3 @@
-
 # Resources for Rooting Samsung A04 Without PC
 
 ## Required APKs
@@ -16,19 +15,4 @@
 
 ## Instructions
 - Download and install the APKs as per the guides.
-
-Committing and Pushing Changes
-
-Stage all changes:
-git add .
-
-Commit the changes:
-git commit -m "Initial setup with README and Resources"
-
-Push Changes to GitHub:
-
-Push the changes to your GitHub repository:
-
-git push origin main
-
 
